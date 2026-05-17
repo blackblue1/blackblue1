@@ -6,6 +6,7 @@
 
 - 服务页：https://blackblue1.github.io/ten-yuan-copy-polish/
 - 备用页：https://github.com/blackblue1/ten-yuan-copy-polish
+- 下单入口：https://github.com/blackblue1/ten-yuan-copy-polish/issues/1
 - 范围：中文 300 字以内，或英文 120 词以内
 - 交付：改写版 1 个 + 简短修改说明
 - 不接：代写作业、虚假评价、刷单刷量、违规引流、医疗/法律/投资承诺
